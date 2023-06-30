@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/coffee-ecommerce/static/css/main.3f183e1d.css",
+    "main.css": "/coffee-ecommerce/static/css/main.c7f3cbdb.css",
     "main.js": "/coffee-ecommerce/static/js/main.8b9961fd.js",
     "static/media/1st.jpg": "/coffee-ecommerce/static/media/1st.14021c9374f501dcacf7.jpg",
     "index.html": "/coffee-ecommerce/index.html",
-    "main.3f183e1d.css.map": "/coffee-ecommerce/static/css/main.3f183e1d.css.map",
+    "main.c7f3cbdb.css.map": "/coffee-ecommerce/static/css/main.c7f3cbdb.css.map",
     "main.8b9961fd.js.map": "/coffee-ecommerce/static/js/main.8b9961fd.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f183e1d.css",
+    "static/css/main.c7f3cbdb.css",
     "static/js/main.8b9961fd.js"
   ]
 }
